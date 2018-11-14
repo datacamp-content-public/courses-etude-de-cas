@@ -13,10 +13,10 @@ xp: 100
 skills: 1
 ```
 
-This is an example exercise.
+Il s'agit du sujet de l'interrogation d'étude de cas, merci de répondre à chaque question
 
 `@instructions`
-
+Pour la matrice M définie plus bas donner la syntaxe nécessaire à sélectionner la première colonne
 
 `@hint`
 
@@ -28,6 +28,9 @@ This is an example exercise.
 
 `@sample_code`
 ```{r}
+library(gapminder)
+gapminder
+
 
 ```
 
