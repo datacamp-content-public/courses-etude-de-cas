@@ -23,7 +23,7 @@ Pour la matrice M définie plus bas donner la syntaxe nécessaire à sélectionn
 
 `@pre_exercise_code`
 ```{r}
-
+install.packages("gapminder")
 ```
 
 `@sample_code`
